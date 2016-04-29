@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./barbaraplautina00kakruoft_0062.png"; bbox 0 0 2188 3447; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 0 2188 3447">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 0 2188 3447">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 0 2188 3447; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 0 0 2188 3447; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 915 1344 1853 1498">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 915 1344 1853 1498">
+     <span class='ocr_line' id='line_1_2' title="bbox 915 1344 1853 1498; baseline 0.001 -41"><span class='ocrx_word' id='word_1_2' title='bbox 915 1344 1853 1498; x_wconf 55' lang='grc' dir='ltr'><strong>ΑΡΡΕΝῠκῐ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 592 2996 2188 3130">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 592 2996 2188 3130">
+     <span class='ocr_line' id='line_1_3' title="bbox 668 2996 2188 3063; baseline 0 -17"><span class='ocrx_word' id='word_1_3' title='bbox 668 3009 700 3050; x_wconf 74' lang='lat'><strong>*1</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 731 3004 876 3046; x_wconf 81' lang='lat' dir='ltr'><strong>Liceat</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 896 3002 1136 3059; x_wconf 78' lang='lat' dir='ltr'>appendicis</span> <span class='ocrx_word' id='word_1_6' title='bbox 1159 3003 1249 3045; x_wconf 92' lang='lat' dir='ltr'>loeo</span> <span class='ocrx_word' id='word_1_7' title='bbox 1274 3002 1386 3059; x_wconf 83' lang='lat' dir='ltr'><strong>typis</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1421 3000 1571 3044; x_wconf 80' lang='lat' dir='ltr'><strong>iterare</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1613 3013 1722 3063; x_wconf 69' lang='lat' dir='ltr'><strong>quae</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1747 3015 1772 3048; x_wconf 76' lang='lat' dir='ltr'>a</span> <span class='ocrx_word' id='word_1_11' title='bbox 1810 2999 1929 3050; x_wconf 73' lang='lat' dir='ltr'>nobis</span> <span class='ocrx_word' id='word_1_12' title='bbox 1953 2999 2030 3057; x_wconf 68' lang='lat' dir='ltr'><strong>bio</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 2049 2996 2135 3048; x_wconf 73' lang='grc' dir='ltr'><strong>ἱΙῐίο</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 2164 3000 2188 3046; x_wconf 76' lang='lat' dir='ltr'><strong>il</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 592 3066 1436 3130; baseline 0 -22"><span class='ocrx_word' id='word_1_15' title='bbox 592 3067 814 3117; x_wconf 62' lang='lat' dir='ltr'><strong>annalibus</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 838 3066 1090 3130; x_wconf 76' lang='lat' dir='ltr'>quibusdam</span> <span class='ocrx_word' id='word_1_17' title='bbox 1122 3067 1299 3115; x_wconf 77' lang='lat' dir='ltr'>disserta</span> <span class='ocrx_word' id='word_1_18' title='bbox 1325 3071 1436 3114; x_wconf 70' lang='lat' dir='ltr'>sunt.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
